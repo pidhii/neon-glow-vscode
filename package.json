@@ -1,0 +1,28 @@
+{
+  "name": "neon-glow-theme",
+  "displayName": "Neon Glow Theme",
+  "description": "Colortheme inspired by an eponymous theme from Sublime Text",
+  "version": "0.1.0",
+  "publisher": "Ivan Pidhurskyi",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "neon",
+    "glow"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neon-glow-color-theme.json"
+      }
+    ]
+  }
+}
