@@ -122,7 +122,9 @@
         "keyword.other.using",
         "storage.type.modifier.access",
         "variable.other.unknown.requires.cpp",
-        "keyword.other.delete"
+        "keyword.other.requires.cpp",
+        "keyword.other.delete",
+        "keyword.control.scheme",
       ],
       "settings": {
         "foreground": "#cb5f5d",
@@ -243,7 +245,8 @@
         "keyword.control.throw",
         "keyword.control.try",
         "keyword.control.catch",
-        "variable.source.cmake"
+        "variable.source.cmake",
+        "keyword.other.static-assert.cpp",
       ],
       "settings": {
         "foreground": "#ff5f5f",
